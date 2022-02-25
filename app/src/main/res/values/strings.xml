@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ejercicio5</string>
+    <string name="txt1">Promedio</string>
+    <string name="result">Resultado de Calificaciones</string>
+    <string name="mat1">Calificacion de Informatica</string>
+    <string name="Espa">Calificacion de Etica</string>
+    <string name="Ingles">Calificacion de Quimica</string>
+    <string name="artes">Calificacion de Matematicas</string>
+    <string name="hist">Calificacion de Geografia</string>
+    <string name="bt1">Promedio Final</string>
+    <string name="tvresult">Estatus del alumno:</string>
+</resources>
